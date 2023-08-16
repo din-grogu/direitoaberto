@@ -9,3 +9,12 @@ Como exemplo, prevê-se no art. 9º da Lei nº 9.099/95 a faculdade à parte de 
 # Para a própria comunidade jurídica
 O acesso a conteúdos jurídicos é quase sempre barrado por manuais e cursos. A produção de conteúdos pela comunidade, inspirado pela Wikipedia, mostra-se ímpar para a geração de valor no conhecimento humano. As barreiras erguidas na frente de livros, hoje estão acessíveis a todos, sem custos e sem anúncios ao usuário final. 
 O conteúdo criado pela comunidade, além de se mostrar útil a quem já está inserido no meio, pode inspirar pessoas a seguirem carreira e enriquecer a própria comunidade.
+
+## Afazeres
+- Organização estrutural do repositório;
+- Upload de arquivos (Petições/Anotações Graduação);
+- Criação de uma Wiki para indexação de termos jurídicos;
+- Organização a fim de promover contribuições mais dinâmicas;
+- 
+- Blog (?)
+- Github pages (?)
