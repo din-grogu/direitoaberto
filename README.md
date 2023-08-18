@@ -18,7 +18,9 @@ O conteúdo criado pela comunidade, além de se mostrar útil a quem já está i
 
 
 ## Afazeres
-- Refinamento do README.md;
+- Refinamento do README.md:
+-- O que é por que código aberto?;
+-- Comentários mais precisos juridicamente;
 - Organização estrutural do repositório;1
 - Lista de links interessantes no README;
 - Upload de arquivos (Petições/Anotações/Cursos);
